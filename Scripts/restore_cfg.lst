@@ -7,6 +7,9 @@ N|Y|${HOME}/.config/hypr|keybindings.conf monitors.conf userprefs.conf|hyprland
 N|Y|${HOME}/.config/hypr|nvidia.conf|hyprland nvidia-utils
 Y|Y|${HOME}/.config/hyprdots|theme.ctl scripts wallbash|hyprland
 Y|Y|${HOME}/.config|kitty|kitty
+Y|Y|${HOME}/.config|mpv|mpv
+Y|Y|${HOME}/.config|nvim|neovim
+Y|Y|${HOME}/.config|nvim|nvim
 Y|Y|${HOME}/.config|Kvantum|kvantum
 Y|Y|${HOME}/.config|lsd|lsd
 Y|Y|${HOME}/.config|MangoHud|mangohud
@@ -14,6 +17,8 @@ Y|Y|${HOME}/.config|neofetch|neofetch
 Y|Y|${HOME}/.config|qt5ct|qt5ct
 Y|Y|${HOME}/.config|qt6ct|qt6ct
 Y|Y|${HOME}/.config|rofi|rofi
+Y|Y|${HOME}/.config|wofi|wofi
+Y|Y|${HOME}/.config|starship.toml|starship
 Y|Y|${HOME}/.config|swaylock|swaylock-effects
 Y|N|${HOME}/.config|swww|swww
 Y|Y|${HOME}/.config|waybar|waybar

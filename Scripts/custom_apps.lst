@@ -2,6 +2,7 @@
 #emote
 #trash-cli-git
 #downgrade
+github-cli
 steam
 gamemode
 #gamescope
@@ -9,5 +10,9 @@ mangohud
 cava
 spotify
 spicetify-cli
-#libinput-gestures
-#gestures
+mpv
+wofi
+neovim
+
+libinput-gestures
+gestures
